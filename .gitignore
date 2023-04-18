@@ -1,0 +1,7 @@
+horoscope/.classpath
+horoscope/.factorypath
+horoscope/.project
+horoscope/.settings/
+horoscope/target/classes/application.properties
+horoscope/target/
+horoscope_test/results/
